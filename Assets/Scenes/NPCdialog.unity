@@ -14330,7 +14330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf49245532b713b4d9bf979252b8aa2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  apiKey: AIzaSyAZ_70_w_Z3erddgwBioKq-NVMxoyj1a2I
+  apiKey: 
   interactHint: {fileID: 1216120378}
 --- !u!4 &759253009
 Transform:
